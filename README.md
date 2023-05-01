@@ -1,2 +1,2 @@
 # kanplyLandingPrelaunch
-Kanply website prelaunch
+Prelaunch landing page for kanply.com
